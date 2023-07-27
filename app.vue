@@ -2,7 +2,7 @@
   <main class="max-w-screen-xl px-4 sm:px-6 mx-auto">
     <section class="grid lg:gap-8 xl:gap-0 pt-12 lg:pt-16 sm:grid-cols-12">
       <div class="mr-auto sm:col-span-7">
-        <h1 class="max-w-2xl mb-4 text-4xl font-black md:text-5xl xl:text-6xl">
+        <h1 class="mb-4 text-4xl font-black md:text-5xl xl:text-6xl">
           Tellima Grandiflora
         </h1>
         <div class="max-w-2xl md:text-lg lg:text-xl mr-3 mb-3">
@@ -12,7 +12,7 @@
           </p>
           <p>
             This website was created for Mr. Ehl's BC Plant Project in Life
-            Science 11 by
+            Sciences 11 by
             <StyledLink to="https://realcyguy.netlify.app"
               >Cyrus Yip</StyledLink
             >
@@ -26,7 +26,7 @@
       <div class="mt-5 sm:mt-0 sm:col-span-5 flex h-44 sm:h-auto w-full">
         <img
           src="~/assets/images/flower1.jpg"
-          alt="Tellima Grandiflora"
+          alt="Tellima grandiflora"
           class="rounded-lg object-cover w-full"
         />
       </div>
@@ -35,7 +35,7 @@
       class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2 mt-2 mb-10"
     >
       <div
-        class="bg-secondary px-9 lg:px-11 py-7 lg:py-9 rounded-lg flex-1 col-span-1"
+        class="bg-secondary px-9 lg:px-11 py-7 lg:py-9 rounded-lg col-span-1"
       >
         <h2 class="text-2xl md:text-3xl font-black mb-2 lg:mb-4 xl:mb-5">
           Taxonomic Classification
@@ -58,103 +58,116 @@
         </div>
       </div>
       <div
-        class="bg-secondary px-9 lg:px-11 py-7 lg:py-9 rounded-lg flex-1 md:col-span-2"
+        class="bg-secondary px-9 lg:px-11 py-7 lg:py-9 rounded-lg md:col-span-2"
       >
         <h2 class="text-2xl md:text-3xl font-black mb-2 lg:mb-4 xl:mb-5">
           Evolution
         </h2>
-        <p class="max-w-2xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores ab
-          quibusdam quas. Fugit laboriosam perferendis libero maxime laudantium
-          qui aut quasi, aliquam doloribus quae non. Expedita, beatae! Quod at
-          adipisci odio quia placeat! Corporis quas voluptatum provident
-          delectus aliquam, odit fugit temporibus et recusandae cupiditate
-          laborum perspiciatis vel iusto possimus.
+        <p>
+          The flowering perennial plant has evolved several adaptations that aid
+          in its great success in western North America, sometimes considered
+          slightly invasive. Fringecups have developed shade tolerance, allowing
+          them to grow in shaded areas of forests. Going back further,
+          Angiosperms developed flowers for attracting pollinators, allowing for
+          much more efficient reproduction compared to wind-based pollination.
+          The fringed flowers of the fringecups are used to attract pollinators.
         </p>
       </div>
       <div
-        class="bg-secondary px-9 lg:px-11 py-7 lg:py-9 rounded-lg flex-1 col-span-1"
+        class="bg-secondary px-9 lg:px-11 py-7 lg:py-9 rounded-lg md:col-span-2"
       >
         <h2 class="text-2xl md:text-3xl font-black mb-2 lg:mb-4 xl:mb-5">
           Environmental risks
         </h2>
-        <p class="max-w-2xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam esse
-          nulla labore nesciunt itaque beatae ad odio praesentium corrupti
-          voluptas?
+        <p>
+          Tellima grandiflora is considered secure by NatureServe, the most
+          secure conservation status. The status is lower in some other areas,
+          but it is also considered secure in British Columbia. While there are
+          currently no risks to the plant, it shares many other plant's
+          environmental risks, such as climate change and habitat loss. If sea
+          levels rise enough, the plant's water could be mixed with saltwater,
+          which would be very damaging.
         </p>
       </div>
       <div
-        class="bg-secondary px-9 lg:px-11 py-7 lg:py-9 rounded-lg flex-1 col-span-1"
+        class="bg-secondary px-9 lg:px-11 py-7 lg:py-9 rounded-lg col-span-1"
       >
         <h2 class="text-2xl md:text-3xl font-black mb-2 lg:mb-4 xl:mb-5">
           Diagram
         </h2>
-        <p class="max-w-2xl">
+        <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam esse
           nulla labore nesciunt itaque beatae ad odio praesentium corrupti
           voluptas?
         </p>
       </div>
       <div
-        class="bg-secondary px-9 lg:px-11 py-7 lg:py-9 rounded-lg flex-1 col-span-1"
+        class="bg-secondary px-9 lg:px-11 py-7 lg:py-9 rounded-lg col-span-1"
       >
         <h2 class="text-2xl md:text-3xl font-black mb-2 lg:mb-4 xl:mb-5">
           Reproductive Cycle
         </h2>
-        <p class="max-w-2xl">
+        <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam esse
           nulla labore nesciunt itaque beatae ad odio praesentium corrupti
           voluptas?
         </p>
       </div>
       <div
-        class="bg-secondary px-9 lg:px-11 py-7 lg:py-9 rounded-lg flex-1 col-span-1"
+        class="bg-secondary px-9 lg:px-11 py-7 lg:py-9 rounded-lg col-span-1"
       >
         <h2 class="text-2xl md:text-3xl font-black mb-2 lg:mb-4 xl:mb-5">
           First Nations Uses
         </h2>
-        <p class="max-w-2xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam esse
-          nulla labore nesciunt itaque beatae ad odio praesentium corrupti
-          voluptas?
+        <p>
+          Tellima grandiflora was known as a special medicine for the Ditidaht
+          First Nation that lived on Southern Vancouver Island. In Washington,
+          the Skagit people crushed the plant and drank it as tea for sicknesses
+          such as lack of appetite.
         </p>
       </div>
       <div
-        class="bg-secondary px-9 lg:px-11 py-7 lg:py-9 rounded-lg flex-1 col-span-1"
+        class="bg-secondary px-9 lg:px-11 py-7 lg:py-9 rounded-lg col-span-1"
       >
         <h2 class="text-2xl md:text-3xl font-black mb-2 lg:mb-4 xl:mb-5">
           Modern Uses
         </h2>
-        <p class="max-w-2xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam esse
-          nulla labore nesciunt itaque beatae ad odio praesentium corrupti
-          voluptas?
+        <p>
+          Nowadays, Tellima grandiflora is pretty useless. It is primarily used
+          as an ornamental plant in gardens and as ground cover due to its
+          attractive fringed flowers and fragrant aroma.
         </p>
       </div>
       <div
-        class="bg-secondary px-9 lg:px-11 py-7 lg:py-9 rounded-lg flex-1 col-span-1"
+        class="rounded-lg bg-cover bg-bottom bg-[url(~/assets/images/flower2.jpg)]"
+        role="img"
+        aria-label="Tellima grandiflora"
+      ></div>
+      <div
+        class="bg-secondary px-9 lg:px-11 py-7 lg:py-9 rounded-lg col-span-1"
       >
         <h2 class="text-2xl md:text-3xl font-black mb-2 lg:mb-4 xl:mb-5">
           Habitat
         </h2>
-        <p class="max-w-2xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam esse
-          nulla labore nesciunt itaque beatae ad odio praesentium corrupti
-          voluptas?
+        <p>
+          Tellima grandiflora is native to western North America's moist and dry
+          forests. They thrive under partial sun and light shade with water,
+          such as in moist forests, thickets, and along streams.
         </p>
       </div>
       <div
-        class="bg-secondary px-9 lg:px-11 py-7 lg:py-9 rounded-lg flex-1 col-span-full overflow-x-auto"
+        class="bg-secondary px-9 lg:px-11 py-7 lg:py-9 rounded-lg col-span-full overflow-x-auto"
       >
         <h2 class="text-2xl md:text-3xl font-black mb-2 lg:mb-4 xl:mb-5">
           Works Cited
         </h2>
-        <ol class="flex gap-3 flex-col pl-16 -indent-16 min-w-[24rem]">
+        <ol
+          class="flex gap-3 flex-col pl-16 -indent-16 min-w-[24rem] font-light"
+        >
           <li>
             <p>
-              Britannica, and The Editors of Encyclopaedia Britannica.
-              “Dicotyledon.” <em>Encyclopædia Britannica</em>, 26 Jan. 2023,
+              Britannica, The Editors of Encyclopaedia Britannica.
+              <em>dicotyledon</em>. 2023,
               <StyledLink
                 to="https://www.britannica.com/plant/dicotyledon"
                 target="_blank"
@@ -164,12 +177,10 @@
           </li>
           <li>
             <p>
-              George Wayne Douglas, <em>et al.</em>
-              <em
-                >Illustrated Flora of British Columbia. / Volume 2, Dicotyledons
-                (Balsaminaceae through Cuscutaceae)</em
-              >. 2023. Vol. 6, B.C. Min. Environ., Lands and Parks, and B.C.
-              Min. For., 1998, p. 110,
+              George Wayne Douglas, Dellis Vern Meidinger, Jim Pojar, G.B.
+              Straley. <em>Illustrated flora of British Columbia</em>. 1998.
+              Vol. 6, B.C. Min. Environ., Lands and Parks, and B.C. Min. For.,
+              pp. 110-111,
               <StyledLink
                 to="https://www.for.gov.bc.ca/hfd/pubs/docs/mr/Mr104.pdf"
                 target="_blank"
@@ -179,7 +190,41 @@
           </li>
           <li>
             <p>
-              “Missouri Botanical Garden.” <em>Tropicos.org</em>,
+              Arthur Cronquist, Paul E. Berry, Martin Huldrych Zimmermann, David
+              L. Dilcher, Peter Stevens, Dennis William Stevenson.
+              <em>Angiosperm</em>. 2023,
+              <StyledLink
+                to="https://www.britannica.com/plant/angiosperm"
+                target="_blank"
+                >www.britannica.com/plant/angiosperm</StyledLink
+              >. Accessed 26 July 2023.
+            </p>
+          </li>
+          <li>
+            <p>
+              “Fringe Cups - Tellima grandiflora - PNW Plants.”
+              <em>pnwplants.wsu.edu</em>,
+              <StyledLink
+                to="http://pnwplants.wsu.edu/PlantDisplay.aspx?PlantID=310"
+                target="_blank"
+                >pnwplants.wsu.edu/PlantDisplay.aspx?PlantID=310</StyledLink
+              >. Accessed 26 July 2023.
+            </p>
+          </li>
+          <li>
+            <p>
+              David Giblin, Kevin Armitano.
+              <em>Burke Herbarium Image Collection</em>. Burke Museum Herbarium,
+              <StyledLink
+                to="https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tellima%20grandiflora"
+                target="_blank"
+                >burkeherbarium.org/imagecollection/taxon.php?Taxon=Tellima%20grandiflora</StyledLink
+              >. Accessed 26 July 2023.
+            </p>
+          </li>
+          <li>
+            <p>
+              “Missouri Botanical Garden.” <em>tropicos.org</em>,
               <StyledLink
                 to="https://tropicos.org/name/29100773"
                 target="_blank"
@@ -192,3 +237,21 @@
     </section>
   </main>
 </template>
+
+<script setup lang="ts">
+useServerSeoMeta({
+  title: "Tellima Grandiflora",
+  description:
+    "Website dedicated to Tellima grandiflora, also known as fringecups.",
+  themeColor: "#242e19",
+});
+
+useHead({
+  link: [
+    {
+      rel: "icon",
+      href: "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌱</text></svg>",
+    },
+  ],
+});
+</script>

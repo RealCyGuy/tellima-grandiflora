@@ -108,7 +108,7 @@
           Reproductive Cycle
         </h2>
         <img
-          src="~/assets/images/reproductive cycle.jpg"
+          src="~/assets/images/reproductive-cycle.jpg"
           alt="Tellima grandiflora reproductive cycle"
           class="rounded-lg"
         />
